@@ -1,3 +1,7 @@
+# NOTE:
+The goal of this repo was to transition an older workshop to the new website format. Active development should happen on the original [Intro-to-GIS-with-QGIS Repo](https://github.com/ucdavisdatalab/Intro-to-Desktop-GIS-with-QGIS)
+
+
 # Workshop: Intro to Desktop GIS with QGIS
 
 _[UC Davis DataLab](https://datalab.ucdavis.edu/)_  
